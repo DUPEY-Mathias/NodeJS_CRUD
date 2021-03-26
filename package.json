@@ -1,0 +1,14 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "Api avec Express et système CRUD",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathias DUPEY / Tohsiro Mpika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
